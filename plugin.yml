@@ -1,0 +1,12 @@
+name: BlackSmith
+main: KaYuuVN\BlackSmith\Main
+version: 1.0.0
+api: 3.0.0
+depend:
+- EconomyAPI
+- FormAPI
+commands:
+ blacksmith:
+  description: "BlackSmith"
+ bs:
+  description: "BlackSmith"
