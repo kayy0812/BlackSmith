@@ -1,9 +1,10 @@
-# BlackSmith
-### This is just a build by KaYuu081 and this is just a beta that will probably cause unknown bugs.
+# General
+### BlackSmith
+The plugin helps you to adjust the name and lore for a weapon or tool.
 
 [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
 
 # Commands
 | Command | Description | Aliases |
 | --- | --- | --- |
-| `/blacksmith` | Blacksmith command |  `/bs` |
+| `/blacksmith` | Open form |  `/bs` |
