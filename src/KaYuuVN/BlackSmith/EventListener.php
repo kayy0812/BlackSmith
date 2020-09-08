@@ -9,7 +9,7 @@ use pocketmine\block\Anvil;
 /**
  * Class EventListener
  * @package KaYuuVN\BlackSmith
- */
+ */ 
 
 Class EventListener implements Listener{
     
@@ -24,7 +24,7 @@ Class EventListener implements Listener{
 
     public function __construct(Main $plugin)
     {
-		$this->plugin = $plugin;
+        $this->plugin = $plugin;
     }
     
     /**
