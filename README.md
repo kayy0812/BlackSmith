@@ -3,13 +3,7 @@
 
 [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
 
-## Commands
+# Commands
 | Command | Description | Aliases |
 | --- | --- | --- |
 | `/blacksmith` | Blacksmith command |  `/bs` |
-
-[Ohhh, that was the first plugin I uploaded here.]
-
-Have a nice day.
-
-Youtube: No
